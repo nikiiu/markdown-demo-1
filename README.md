@@ -15,4 +15,4 @@
 我的网站是 [百度](https://www.baidu.com)
 
 ![一张图片](xg.jpg)
-
+![一张图片](2.jpg)
